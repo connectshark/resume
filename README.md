@@ -4,7 +4,6 @@ Just my resume.
 
 ## Read my resume
 
-
 ### [English version](https://cdn.jsdelivr.net/gh/connectshark/resume@latest/en-Chambers.pdf)
 
 copy now
